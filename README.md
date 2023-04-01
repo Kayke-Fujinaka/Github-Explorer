@@ -1,30 +1,30 @@
 <h1 align="center">🚀 GITHUB EXPLORER</h1>
 
-> 🔎 Primeiro capítulo do Ignite da Rocketseat
+> 🔎 First chapter of Rocketseat's Ignite
 
-## :page_facing_up: Explicação
+## :page_facing_up: Explanation
 
-O projeto é bem simples onde eu aprendo alguns conceitos de React e consumo a API de repositórios do Github.
+The project is very simple where I learn some React concepts and consume the Github repositories API.
 
-## 🎯 Etapas ##
+## 🎯 Steps ##
 
-:heavy_check_mark: Configurando o Babel\
-:heavy_check_mark: Configurando Webpack\
-:heavy_check_mark: Estruturação do projeto\
+:heavy_check_mark: Configuring Babel\
+:heavy_check_mark: Configuring Webpack\
+:heavy_check_mark: Project structure\
 :heavy_check_mark: HTML Static\
 :heavy_check_mark: Webpack Dev Server\
 :heavy_check_mark: Source Map\
-:heavy_check_mark: Criando o enviromment de Dev e Produção\
-:heavy_check_mark: Aplicando o Styled Components\
-:heavy_check_mark: Props para o componente\
+:heavy_check_mark: Creating the Dev and Production environment\
+:heavy_check_mark: Applying Styled Components\
+:heavy_check_mark: Props for component\
 :heavy_check_mark: Fast Refresh in Webpack\
-:heavy_check_mark: Consumindo a API\
-:heavy_check_mark: Lista de repos\
-:heavy_check_mark: UseEffect na Lista\
-:heavy_check_mark: Configurando TypeScript\
-:heavy_check_mark: Finalizado
+:heavy_check_mark: Consuming API\
+:heavy_check_mark: List of repos\
+:heavy_check_mark: UseEffect in List\
+:heavy_check_mark: Configuring TypeScript\
+:heavy_check_mark: Done
 
-## 🚀 Tecnologias ##
+## 🚀 Technologies ##
 
 - [ReactJs](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/docs/)
@@ -32,41 +32,41 @@ O projeto é bem simples onde eu aprendo alguns conceitos de React e consumo a A
 - [Webpack](https://webpack.js.org/)
 - [Styled Components](https://styled-components.com/)
 
-## 📡 API'𝘀 usadas na aplicação ##
+## 📡 API'𝘀 used in the application ##
 
-- 🚀 [API do meu Github](api.github/users/kayke-fujinaka)
+- 🚀 [My Github API](api.github/users/kayke-fujinaka)
 
-## :closed_book: Como usar? ##
+## :closed_book: How to use it? ##
 
-Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ```bash
 # Clone this project
 $ git clone https://github.com/Kayke-Fujinaka/Github-Explorer
-# Access
+# access
 $ cd githubexplorer
-# Install dependencies
-$ yarn or npm 
+# install dependencies
+$ yarn or npm
 # Run the project
-$ yarn start or npm start 
+$ yarn start or npm start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Thanks to the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
         <sub>
           <b>Kayke Fujinaka</b>
         </sub>
       </a>
-    </td>
+    </all>
   </tr>
 </table>
 
-<a href="#top">Volte para o topo</a>
+<a href="#top">Go back to top</a>
